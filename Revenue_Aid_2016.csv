@@ -1,4 +1,4 @@
-Survey Year,Institution Name,State CD,Classification Name,Sanction Name,Total Men's Team Revenue,Total Women's Team Revenue,Not Allocated by Gender/Sport Revenue,Grand Total Revenue,Men's Team Athletic Student Aid,Women's Team Athletic Student Aid,Male Undergraduates,Female Undergraduates,Total Undergraduates
-2016,University of Louisville,KY,NCAA Division I-FBS,NCAA,87066830,1723173,33655301,122445304,6249734,5907156,5925,6400,12325
-2016,University of Kentucky,KY,NCAA Division I-FBS,NCAA,65217902,1626718,55447093,122307014,7119237,4874527,9420,11352,20772
-2016,Indiana University-Bloomington,IN,NCAA Division I-FBS,NCAA,62767976,756377,41294985,104819338,8487821,7039065,16085,15799,31884
+School ID,Survey Year,Institution Name,State CD,Classification Name,Sanction Name,Total Men's Team Revenue,Total Women's Team Revenue,Not Allocated by Gender/Sport Revenue,Grand Total Revenue,Men's Team Athletic Student Aid,Women's Team Athletic Student Aid,Male Undergraduates,Female Undergraduates,Total Undergraduates
+1,2016,University of Louisville,KY,NCAA Division I-FBS,NCAA,87066830,1723173,33655301,122445304,6249734,5907156,5925,6400,12325
+2,2016,University of Kentucky,KY,NCAA Division I-FBS,NCAA,65217902,1626718,55447093,122307014,7119237,4874527,9420,11352,20772
+3,2016,Indiana University-Bloomington,IN,NCAA Division I-FBS,NCAA,62767976,756377,41294985,104819338,8487821,7039065,16085,15799,31884
